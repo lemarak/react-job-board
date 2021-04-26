@@ -14,7 +14,7 @@
 }
 
 .jobs {
-  width: 1020px;
+  width: 1024px;
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
@@ -50,6 +50,7 @@
 .yellow {
   border: 3px solid yellow;
 }
+
 footer {
   font-size: 18px;
   height: 60px;
@@ -63,4 +64,22 @@ a {
   font-weight: bold;
   color: black;
   text-decoration: none;
+}
+
+@media (max-width: 1024px) {
+  .jobs {
+    width: 100%;
+  }
+  .job {
+    width: 45%;
+  }
+}
+
+@media (max-width: 760px) {
+  .jobs {
+    width: 100%;
+  }
+  .job {
+    width: 90%;
+  }
 }

@@ -1,5 +1,4 @@
 const Job = (props) => {
-  console.log("Props : ", props);
   return (
     <>
       <div className={`job ${props.className}`}>
