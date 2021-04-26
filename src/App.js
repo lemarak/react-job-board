@@ -1,9 +1,13 @@
 import "./App.css";
+import Header from "./Header";
+import Job from "./Job";
+import Jobs from "./Jobs";
 
 function App() {
   return (
     <div>
-      Hello from <a href="https://www.lereacteur.io">Le Reacteur !</a>
+      <Header title={"The Job Board"} />
+      <Jobs />
     </div>
   );
 }

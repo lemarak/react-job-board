@@ -1,1 +1,25 @@
 /* Other rules */
+.header {
+  background: black;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.title {
+  color: white;
+  font-size: 40px;
+}
+
+.jobs {
+  max-width: 1020px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.job {
+  width: 33%;
+}
