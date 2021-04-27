@@ -3,54 +3,61 @@
     "title": "Full Time Sales Associate - Sydney Boutique",
     "contractType": "CDI",
     "country": "Australie",
-    "city": "Sydney"
+    "city": "Sydney",
+    "className": "red"
   },
   {
     "title": "Full Time Sales Associate - Sydney Boutique",
     "contractType": "CDI",
     "country": "Australie",
-    "city": "Sydney"
+    "city": "Sydney",
+    "className": "green"
   },
   {
     "title": "Full Time Sales Associate - Sydney Boutique",
     "contractType": "CDI",
     "country": "Australie",
-    "city": "Sydney"
+    "city": "Sydney",
+    "className": "blue"
+  },
+  {
+    "contractType": "CDI",
+    "country": "Australie",
+    "className": "yellow"
   },
   {
     "title": "Full Time Sales Associate - Sydney Boutique",
     "contractType": "CDI",
     "country": "Australie",
-    "city": "Sydney"
+    "city": "Sydney",
+    "className": "green"
   },
   {
     "title": "Full Time Sales Associate - Sydney Boutique",
     "contractType": "CDI",
     "country": "Australie",
-    "city": "Sydney"
+    "city": "Sydney",
+    "className": "pink"
   },
   {
     "title": "Full Time Sales Associate - Sydney Boutique",
     "contractType": "CDI",
     "country": "Australie",
-    "city": "Sydney"
+    "city": "Sydney",
+    "className": "blue"
   },
   {
     "title": "Full Time Sales Associate - Sydney Boutique",
     "contractType": "CDI",
     "country": "Australie",
-    "city": "Sydney"
+    "city": "Sydney",
+    "className": "red"
   },
   {
     "title": "Full Time Sales Associate - Sydney Boutique",
     "contractType": "CDI",
     "country": "Australie",
-    "city": "Sydney"
-  },
-  {
-    "title": "Full Time Sales Associate - Sydney Boutique",
-    "contractType": "CDI",
-    "country": "Australie",
-    "city": "Sydney"
+    "city": "Sydney",
+    "className": "green"
   }
 ]
