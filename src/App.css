@@ -29,6 +29,24 @@
   justify-content: space-between;
   padding: 10px;
   margin-bottom: 25px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.red {
+  border-color: red;
+}
+.green {
+  border-color: green;
+}
+.blue {
+  border-color: blue;
+}
+.yellow {
+  border-color: yellow;
+}
+.pink {
+  border-color: pink;
 }
 
 .title-job {
@@ -37,18 +55,6 @@
 
 .footer-job {
   font-size: 18px;
-}
-.red {
-  border: 3px solid red;
-}
-.green {
-  border: 3px solid green;
-}
-.blue {
-  border: 3px solid blue;
-}
-.yellow {
-  border: 3px solid yellow;
 }
 
 footer {

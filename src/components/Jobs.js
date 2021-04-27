@@ -40,7 +40,7 @@ const Jobs = (props) => {
       />
       <Job
         title="Développeur FullStack"
-        className="yellow"
+        className="pink"
         contractType="CDI"
         country="Allemagne"
         city="Berlin"
